@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="paddingTopMin">8dp</dimen>
+    <dimen name="paddingTopDefault">16dp</dimen>
+    <dimen name="paddingTopmedio">24dp</dimen>
+
+</resources>
